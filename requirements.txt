@@ -1,0 +1,15 @@
+args==0.1.0
+backports.csv==1.0.5
+certifi==2018.1.18
+chardet==3.0.4
+clint==0.5.1
+docopt==0.6.2
+idna==2.6
+internetarchive==1.7.7
+jsonpatch==1.21
+jsonpointer==2.0
+requests==2.18.4
+schema==0.6.7
+six==1.11.0
+tqdm==4.19.8
+urllib3==1.22
